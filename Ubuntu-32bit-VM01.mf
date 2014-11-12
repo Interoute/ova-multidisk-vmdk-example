@@ -1,0 +1,3 @@
+SHA1 (Ubuntu-32bit-VM01.ovf)= 51f7d29e101fef684dbacd672af7cc9817a87a44
+SHA1 (Ubuntu-32bit-VM01-disk1.vmdk)= 2436508cfd56de782a085d54b81afdd5bdfa3cfe
+SHA1 (Ubuntu-32bit-VM01-disk2.vmdk)= 3c6434bbe148df28849b59974a4183b16d74c27e

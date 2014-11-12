@@ -1,0 +1,4 @@
+-rw------- someone/someone 13532 2014-11-12 09:54 Ubuntu-32bit-VM01.ovf
+-rw------- someone/someone 1687790080 2014-11-12 10:01 Ubuntu-32bit-VM01-disk1.vmdk
+-rw------- someone/someone   45909504 2014-11-12 10:05 Ubuntu-32bit-VM01-disk2.vmdk
+-rw------- someone/someone        227 2014-11-12 10:05 Ubuntu-32bit-VM01.mf
